@@ -39,4 +39,4 @@ JOIN
 
 - Captura
 
-<img src="./TAS11-capturas/Pasted image 20240623213814.png" alt="drawing0" width="500"/>
+<img src="./capturas/Pasted image 20240623213814.png" alt="drawing0" width="500"/>
